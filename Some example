@@ -35,3 +35,9 @@ File Transfers & Archiving
 
 rsync/scp  :   Securely transferring files between your local machine and a cluster (scp input.in user@hpc:~/job/)
 tar -czvf/tar -xzvf: Compressing/decompressing folders, often used for transferring results
+
+
+
+
+
+passwd      :    Changing password
