@@ -1,6 +1,4 @@
-<b> `awk` </b>
-
-Some examples:
+<b> Some example usage of `awk` command </b>
 
 To sum integers from a file or stdin, one integer per line
 `printf '1\n2\n3\n' | awk '{ sum += $1} END {print sum}'`
