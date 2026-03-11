@@ -1,4 +1,5 @@
-###File & Directory Manipulation### 
+<b>File & Directory Manipulation</b>
+
 `ls`                            :     Lists directory contents
 
 `cd [directory]`                :     Changes the current working directory
