@@ -9,7 +9,10 @@ To resize an image to a fixed height and proportional width: `convert file old.j
 
 To resize an image to a fixed width and height: `convert fileold.jpg -resize 100x100 filenew.jpg`
 
-To resize an image and simultaneously change its file type: `convert fileold.jpg -resize 100x filenew.png`
+To resize an image and simultaneously change its file type: 
+```js
+convert fileold.jpg -resize 100x filenew.png`
+```
 
 To resize all of the images within a directory:
 ```js
