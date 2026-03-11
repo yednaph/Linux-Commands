@@ -39,5 +39,6 @@ tar -czvf/tar -xzvf: Compressing/decompressing folders, often used for transferr
 
 
 
-
-passwd      :    Changing password
+pwd                   :    Print Working Directory.
+passwd                :    Changing password
+chmod +x script.sh    :    Permissions change (to make an executable)
