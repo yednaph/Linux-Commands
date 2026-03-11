@@ -1,0 +1,6 @@
+File & Directory Manipulation 
+cd: Navigating through complex directory structures (e.g., cd ../subdir).
+mkdir -p: Creating nested directories for multi-stage simulations (e.g., mkdir -p project/run1/dos).
+cp / mv: Copying or renaming input files (cp file1 file2).
+rm: Deleting files, rm *.out to clear output files.
+ln -s: Linking large pseudopotential files to current directories, avoiding duplication.
