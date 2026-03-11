@@ -1,8 +1,7 @@
-cheatsheets
-===========
-Never forget or confuse another UNIX/Linux command with cheatsheets. This 
-repository is forked from <https://github.com/cheat/cheatsheets>. You may refer
-to the original repo instead of my customized cheatsheets.
+Search for a command
+=============================
+This repository is forked from <https://github.com/cheat/cheatsheets>. You may refer
+to the original one.
 
 ### Access cheat from your browser
 Visit <https://pranabdas.github.io/cheatsheets/>
@@ -14,20 +13,14 @@ npx npm-check-updates --upgrade --target minor
 ```
 
 ### Install cheat
-There are several ways to install [cheat](https://github.com/cheat/cheat)
-including via python pip or Homebrew:
-
 ```sh
 pip3 install cheat
-brew install cheat
 ```
 
 Then look for cheat directories and put the cheatsheets there: 
 ```sh
 cheat -d
 ```
-
-
 ### Format ###
 Cheatsheets are plain-text files that begin with an optional "front matter"
 header in YAML format. The header may be used to assign "tags" to a sheet, and
